@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045947595714",
+    "project_id": "avadamassenger",
+    "storage_bucket": "avadamassenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045947595714:android:32e2060a5eebbf9ce1b45b",
+        "android_client_info": {
+          "package_name": "com.apostolov.avada_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-Gx5vpJStFc2RvHv2TXR0zs1TLmw0Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
